@@ -1,0 +1,19 @@
+{
+  "name": "football-assessment-viz",
+  "organization": "Your Org Name",
+  "description": "Radar chart + bar chart visualization for assessment reports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg",
+  "privacyPolicyUrl": "https://your-privacy-policy.com",
+  "termsOfServiceUrl": "https://your-terms-of-service.com",
+  "resources": {
+    "js": [
+      "viz.js"
+    ],
+    "config": [
+      "viz-config.json"
+    ],
+    "css": [
+      "viz.css"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": "metrics",
+      "label": "Metrics",
+      "elements": [
+        { "id": "acceleration", "label": "Acceleration 10 yards" },
+        { "id": "bodyweight", "label": "Body weight exercise" },
+        { "id": "communication", "label": "Communication" },
+        { "id": "behaviour", "label": "Behaviour" },
+        { "id": "confidence", "label": "Confidence" }
+      ]
+    }
+  ],
+  "style": [
+    {
+      "id": "chartType",
+      "label": "Chart Type",
+      "elements": [
+        {
+          "id": "type",
+          "label": "Type",
+          "options": [
+            { "label": "Radar", "value": "radar" },
+            { "label": "Bar", "value": "bar" }
+          ]
+        }
+      ]
+    }
+  ]
+}
